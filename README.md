@@ -192,37 +192,26 @@ PhonePe-Digital-Payments-Case-Study/
 
 ## 💡 Recommendations
 
-🎯 TARGET LOW-ADOPTION REGIONS
-Focus marketing and incentive programs on Lakshadweep,
-Mizoram, Meghalaya and other northeastern states to
-drive digital payment adoption in underserved areas.
-📱 OPTIMIZE FOR BUDGET ANDROID
-Since Xiaomi and Samsung dominate the user base,
-prioritize app performance optimization for mid-range
-Android devices to improve user experience.
-🏪 BOOST MERCHANT PAYMENTS
-Peer-to-peer payments dominate but Merchant Payments
-remain underutilized. Launch merchant onboarding
-campaigns especially in Tier 2 and Tier 3 cities.
-🏙️ URBAN PREMIUM SERVICES
-High-density urban districts show higher transaction
-volumes and amounts. Target these areas for premium
-financial services like investments and insurance.
-📊 FIX DATA INTEGRITY ISSUES
-Address the 28 missing district codes and the missing
-Amount value in Andhra Pradesh to ensure accurate
-reporting and decision-making.
-🎉 LEVERAGE FESTIVE SEASONS
-Q4 consistently shows transaction spikes. Plan targeted
-cashback campaigns and promotions around Diwali and
-year-end to maximize transaction volumes.
-💼 FINANCIAL SERVICES PUSH
-Financial Services is the least used transaction type.
-Introduce incentives for mutual funds, insurance, and
-gold investments through the PhonePe platform.
+### 1. 🎯 Target Low-Adoption Regions
+Focus marketing and incentive programs on Lakshadweep, Mizoram, Meghalaya and other northeastern states to drive digital payment adoption in underserved areas.
 
+### 2. 📱 Optimize for Budget Android
+Since Xiaomi and Samsung dominate the user base, prioritize app performance optimization for mid-range Android devices to improve user experience.
 
----
+### 3. 🏪 Boost Merchant Payments
+Peer-to-peer payments dominate but Merchant Payments remain underutilized. Launch merchant onboarding campaigns especially in Tier 2 and Tier 3 cities.
+
+### 4. 🏙️ Urban Premium Services
+High-density urban districts show higher transaction volumes and amounts. Target these areas for premium financial services like investments and insurance.
+
+### 5. 📊 Fix Data Integrity Issues
+Address the 28 missing district codes and the missing Amount value in Andhra Pradesh to ensure accurate reporting and decision-making.
+
+### 6. 🎉 Leverage Festive Seasons
+Q4 consistently shows transaction spikes. Plan targeted cashback campaigns and promotions around Diwali and year-end to maximize transaction volumes.
+
+### 7. 💼 Financial Services Push
+Financial Services is the least used transaction type. Introduce incentives for mutual funds, insurance, and gold investments through the PhonePe platform.
 
 ## ▶️ How to Run
 
